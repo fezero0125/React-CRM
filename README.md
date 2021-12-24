@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## CRM
+React 기반 고객관리시스템(CRM) 구축 과제입니다.
 
 ## Available Scripts
 
